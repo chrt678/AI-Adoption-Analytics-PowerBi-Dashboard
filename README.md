@@ -34,7 +34,7 @@ The dashboard helps stakeholders, analysts, and decision-makers understand *how 
 ## 📂 Project Structure
 
 ## 📈 Dashboard Preview
- ![Overview.png]
+ ![Overview](Overview.png)
 
 
 ---
